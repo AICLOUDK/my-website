@@ -41,4 +41,3 @@ An `index.html` file is the default or main webpage of a website. When you visit
 - It is automatically loaded by web servers when no specific filename is requested.
 - It forms the foundation of your website’s content and structure.
 
-If you'd like, I can help you create or understand a specific `index.html` file—just let me know!
